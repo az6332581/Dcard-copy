@@ -1,4 +1,7 @@
 # dcard
+dcard製作中
+本專案不帶任何營利行為
+
 
 - **template of:** vite + vue
 - **tailwindcss:** v3.x
