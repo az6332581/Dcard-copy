@@ -1,5 +1,5 @@
 # dcard
-dcard製作中
+dcard 開發中
 本專案不帶任何營利行為
 
 
